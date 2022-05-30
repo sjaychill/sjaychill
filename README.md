@@ -21,6 +21,8 @@ React
 
 ### What to do in the future maybe??...
 <pre>
+TypeScript
+Sass
 Rust
 Golang
 Data Structures and Algorithms
