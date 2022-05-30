@@ -22,6 +22,8 @@ React
 ### What to do in the future maybe??...
 <pre>
 TypeScript
+Gatsby
+GraphQL
 Sass
 Rust
 Golang
